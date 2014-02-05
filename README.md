@@ -1,4 +1,4 @@
-lowdown
-=======
+Static Showdown Info Wiki
+=========================
 
-Get the lowdown on the Static Showdown, a wiki for help during and after the competition.
+Nothing to see here, look at [the wiki](https://github.com/staticshowdown/lowdown/wiki)
